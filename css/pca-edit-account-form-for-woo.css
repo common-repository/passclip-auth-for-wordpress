@@ -1,0 +1,9 @@
+
+.edit-account fieldset{display: none !important;}
+
+label[for="password_current"]{display: none !important;}
+label[for="password_1"]{display: none !important;}
+label[for="password_2"]{display: none !important;}
+#password_current{display: none !important;}
+#password_1{display: none !important;}
+#password_2{display: none !important;}

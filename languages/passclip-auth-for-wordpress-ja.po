@@ -1,0 +1,431 @@
+# Translation of the WordPress plugin PassClip Auth for WordPress.
+# (C) Passlogy Co.,Ltd. 2017
+# This file is distributed under the same license as the PassClip Auth for WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PassClip Auth for WordPress\n"
+"PO-Revision-Date: 2017-08-23 12:24+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: passclip-auth.php:7
+msgid "PassClip Auth will give you an easy and powerful authentication."
+msgstr "PassClip Authは簡単で強力な認証を提供します。"
+
+#: passclip-auth.php:7
+msgid "https://www.passlogy.com/en/"
+msgstr "https://www.passlogy.com/"
+
+#: passclip-auth-login-form.php:71
+#: passclip-auth-login-form.php:77
+msgid "https://www.passclip.com/"
+msgstr "https://www.passclip.com/ja/"
+
+#: passclip-auth-login-form.php:21
+#: passclip-auth-for-woo.php:20
+msgid "Enter the password showed by the slot for this site in passclip"
+msgstr "PassClipの対象スロットのパスワードを入力"
+
+#: passclip-auth-login-form.php:43
+msgid "Login code"
+msgstr "ログインコード"
+
+#: passclip-auth-login-form.php:69
+msgid "<p>You need <strong><font color="#fa0">PassClip</font></strong> to log in.</p>"
+msgstr "<p>このサイトにログインするためには<strong><font color="#fa0">PassClip</font></strong>が必要です。</p>"
+
+#: passclip-auth-login-form.php:70
+msgid "<p>If you do not have PassClip, please get from "
+msgstr "<p>PassClipをお持ちではない場合は、"
+
+
+#: passclip-auth-login-form.php:72
+msgid ""><strong>here</strong></a>.</p>"
+msgstr ""><strong>こちら</strong></a>からダウンロードしてください。</p>"
+
+#: passclip-auth-login-form.php:99
+msgid "Input the temporary login code that was sent to your email to log in without PassClip Auth."
+msgstr "一時的に PassClip Authの保護なしでログインするため、送信したメールに記載されている「ログインコード」を入力してください。"
+
+#: passclip-auth.php:84
+#: passclip-auth.php:85
+msgid "PassClip Auth"
+msgstr
+
+#: passclip-auth.php:92
+#: passclip-auth.php:93
+msgid "PassClip Auth Options"
+msgstr
+
+#: passclip-auth.php:99
+#: passclip-auth.php:100
+msgid "Manage PCA Users"
+msgstr "PCA ユーザー管理"
+
+#: passclip-auth.php:106
+#: passclip-auth.php:107
+msgid "PCA Mail Settings"
+msgstr "PCA メール設定"
+
+#: passclip-auth-user-edit.php:28
+msgid "This user is protected by <strong>PassClip Auth</strong>."
+msgstr "このユーザは<strong>PassClip Auth</strong>によって保護されています。"
+
+#: passclip-auth-user-edit.php:52
+msgid "PassClip Auth Information"
+msgstr
+
+#: passclip-auth-user-edit.php:61
+msgid "This user has logged in with <strong>PassClip</strong>."
+msgstr "このユーザーは既に<strong>PassClip</strong>でログインしています。"
+
+#: passclip-auth-user-edit.php:70
+msgid "This user has not logged in with <strong>PassClip</strong> yet."
+msgstr "このユーザーはまだ<strong>PassClip</strong>でログインしていません。"
+
+#: passclip-auth-user-edit.php:93
+msgid "Register Username"
+msgstr "ユーザー名の登録"
+
+#: passclip-auth-user-edit.php:100
+msgid "<strong>ERROR</strong>: Cannot register with an empty username."
+msgstr "<strong>エラー</strong>: 空のユーザー名では登録できません。"
+
+#: passclip-auth-user-edit.php:109
+msgid "<strong>ERROR</strong>: Cannot register with an email as a username."
+msgstr "<strong>エラー</strong>: メールアドレスはユーザー名として登録できません。"
+
+#: passclip-auth-user-edit.php:116
+#: passclip-auth-login.php:55
+msgid "<strong>ERROR</strong>: Something is wrong in this site."
+msgstr "<strong>エラー</strong>: 異常が発生しました。"
+
+#: passclip-auth-user-edit.php:127
+msgid "Enter your username for this site."
+msgstr "このサイトでのユーザー名を入力してください。"
+
+#: passclip-auth-user-edit.php:128
+msgid "Username can be used when you log in to this site and used as default nickname."
+msgstr "ユーザー名はログイン時に使用できます。また、表示名の初期値に用いられます。"
+
+#: passclip-auth-user-edit.php:135
+msgid "Cannot be changed after registration."
+msgstr "登録後に変更できません。"
+
+#: passclip-auth-user-edit.php:140
+msgid "As you registered this email to "PassClip Auth", you need this email to log in with "Passclip"."
+msgstr "このメールアドレスは「PassClip Auth」に登録されています。そのため、PassClipでログインするためにはこのメールアドレスが必要です。"
+
+#: passclip-auth-user-edit.php:141
+msgid "After registration of Username, you can use either Username or Email to log in."
+msgstr "ユーザー名登録後は、メールアドレスとユーザー名のどちらでもログイン可能です。"
+
+#: passclip-auth-user-edit.php:150
+msgid "Cannot be changed"
+msgstr "変更できません。"
+
+#: class-pca-users-list-table.php:31
+msgid "PassClip info"
+msgstr
+
+#: class-pca-users-list-table.php:32
+msgid "Sent PassClip Code"
+msgstr "PassClip Code送信日時"
+
+#: class-pca-users-list-table.php:160
+msgid "Made by Passclip Auth"
+msgstr "PassClip Authによって作成されました"
+
+#: class-pca-users-list-table.php:163
+msgid "Already logged in with PassClip(Existing User)"
+msgstr "既にPassClipでログインしています(以前からのユーザー)"
+
+#: class-pca-users-list-table.php:166
+msgid "Not yet logged in with PassClip"
+msgstr "まだPassClipでログインしていません"
+
+#: class-pca-users-list-table.php:219
+msgid "Send PassClip Code"
+msgstr "PassClip Codeの送信"
+
+#: passclip-auth-for-woo.php:38
+msgid "Display name publicly as"
+msgstr "表示名"
+
+#: passclip-auth-for-woo.php:53
+msgid "<p>This account is protected by <strong><font color="#fa0">PassClip Auth</font></strong>.</p><br>"
+msgstr "<p>このアカウントは<strong><font color="#fa0">PassClip Auth</font></strong>で保護されています。</p><br>"
+
+#: passclip-auth-login.php:37
+#: passclip-auth-login.php:95
+#: passclip-auth-options.php:213
+msgid "<strong>ERROR</strong>: Could not connect to PassClip Auth server."
+msgstr "<strong>エラー</strong>: PassClip Auth server への接続に失敗しました。"
+
+#: passclip-auth-login.php:42
+msgid "<strong>ERROR</strong>: This site is only for members."
+msgstr "<strong>エラー</strong>: このサイトは登録メンバー専用です。"
+
+#: passclip-auth-login.php:71
+#: passclip-auth-login.php:119
+msgid "<strong>ERROR</strong>: Login failed. Considerable reasons are below."
+msgstr "<strong>エラー</strong>: 下記いずれかの理由によりログインに失敗しました。"
+
+#: passclip-auth-login.php:73
+#: passclip-auth-login.php:121
+msgid "･Wrong user."
+msgstr "・無効なユーザーである。"
+
+#: passclip-auth-login.php:74
+#: passclip-auth-login.php:122
+msgid "･Invalid password."
+msgstr "・無効なパスワードである。"
+
+#: passclip-auth-login.php:75
+#: passclip-auth-login.php:123
+msgid "･Blocked by the login protection."
+msgstr "・ログインプロテクトが解除されていない。"
+
+#: passclip-auth-login.php:81
+msgid "<strong>ERROR</strong>: Invalid Password or Username. Input correctly."
+msgstr "<strong>エラー</strong>: パスワードかユーザー名が無効です。 正確に入力してください。"
+
+#: passclip-auth-login.php:100
+#: passclip-auth-login.php:143
+msgid "<br><a href="%s" title="Log in without PassClip Auth temporarily">Log in without PassClip Auth temporarily</a> ?"
+msgstr "<br><a href="%s" title="Log in without PassClip Auth temporarily">一時的にPassClip Authの保護なしでログインしますか</a> ?"
+
+#: passclip-auth-login.php:132
+msgid "<strong>ERROR</strong>: Input the temporary login code correctly."
+msgstr "<strong>エラー</strong>: ログインコードを正しく入力してください。"
+
+#: passclip-auth-login.php:139
+#: passclip-auth-login.php:152
+#: passclip-auth-login.php:491
+msgid "<strong>ERROR</strong>: You are not allowed login with wordpress password."
+msgstr "<strong>エラー</strong>: wordpressのパスワードによるログインは許可されていません。"
+
+#: passclip-auth-login.php:209
+msgid "A temporary login code was sent to your email address for login without PassClip Auth."
+msgstr "PassClip Authの保護なしでログインするための、一時ログインコードを送信しました。"
+
+#: passclip-auth-login.php:210
+msgid "Your temporarily login code is "%s"."
+msgstr "ログインコードは、"%s" です。"
+
+#: passclip-auth-login.php:216
+msgid "[%s] Your temporarily login code"
+msgstr "[%s] ログインコードをお知らせします"
+
+#: passclip-auth-login.php:448
+msgid "This user was created by PassClip Auth"
+msgstr "このユーザーはPassClip Authによって作成されました。"
+
+#: passclip-auth-login.php:461
+msgid "You are successfully registered to the site %s."
+msgstr "あなたは[%s]への登録に成功しました。"
+
+#: passclip-auth-options.php:154
+msgid "To complete activation of PassClip Auth, register the PCA app_service_id get from PassClip Auth on the Plugin Setting page.</a></div>"
+msgstr "PassClip Authのアクティベーションを完了するには、PassClip Authメンバーサイトで取得したPCA管理IDをPlugin設定画面から登録してください。</a></div>"
+
+#: passclip-auth-options.php:223
+msgid "PassClip Auth(PCA) for Wordpress Options Setting"
+msgstr "PassClip Auth(PCA) for Wordpress オプション設定"
+
+#: passclip-auth-options.php:230
+msgid "PCA app service id"
+msgstr "PassClip Auth管理ID"
+
+#: passclip-auth-options.php:236
+msgid "What is "PassClip Auth app service id(PCA app service id)" ?"
+msgstr " "PassClip Auth管理ID(PCA管理ID)" とは？"
+
+#: passclip-auth-options.php:237
+msgid "If you do not have "PCA app service id", get it from"
+msgstr " "PCA管理ID" をまだ持っていない場合、"
+
+#: passclip-auth-options.php:238
+msgid "Here."
+msgstr "こちらから取得してください。"
+
+#: passclip-auth-options.php:243
+msgid "PassClip Code"
+msgstr "PassClip Code"
+
+#: passclip-auth-options.php:255
+msgid "Show PassClip Code"
+msgstr "PassClip Codeの表示"
+
+#: passclip-auth-options.php:261
+msgid "If checked, your PassClip Code is displayed in the login form."
+msgstr "チェックするとログインフォームにPassClip Codeが表示されます。"
+
+#: passclip-auth-options.php:266
+msgid "Default role for users made by PCA"
+msgstr "PCAによって作られたユーザーの初期権限"
+
+#: passclip-auth-options.php:279
+msgid "Allow login with wordpress password"
+msgstr "wordpressのパスワードでのログインの許可"
+
+#: passclip-auth-options.php:286
+msgid "User with checked role can login using wordpress password."
+msgstr "チェックされた権限のユーザーはwordpressのパスワードでログインできます。"
+
+#: passclip-auth-options.php:291
+msgid "Send new user notice mail to"
+msgstr "新規ユーザー登録のお知らせの送付先"
+
+#: passclip-auth-options.php:309
+msgid "Hide "Lost password" link"
+msgstr "「パスワード再設定」リンクの非表示"
+
+#: passclip-auth-options.php:315
+msgid "If checked, hide "Lost your password?" in the login form."
+msgstr "チェックするとログインフォームの「パスワードをお忘れですか ?」が表示されません。"
+
+#: passclip-auth-options.php:319
+msgid "Prevent PassClip Auth from creating a new user"
+msgstr "PassClip Authによる新規ユーザの登録の拒否"
+
+#: passclip-auth-options.php:325
+msgid "If checked, only existing members can log in."
+msgstr "チェックすると既存メンバーしかログインできません。"
+
+#: passclip-auth-options.php:422
+msgid "<strong>ERROR</strong>: Please enter a subject and a mail body."
+msgstr "<strong>エラー</strong>: タイトルと本文を入力してください。"
+
+#: passclip-auth-options.php:429
+msgid "PassClip Auth(PCA) for Wordpress Mail Setting"
+msgstr "PassClip Auth(PCA) for Wordpress メール設定"
+
+#: passclip-auth-options.php:434
+msgid "Subject of Notification"
+msgstr "通知のタイトル"
+
+#: passclip-auth-options.php:446
+msgid "Notification of PassClip Code"
+msgstr "PassClip Codeの通知"
+
+#: passclip-auth-options.php:452
+msgid "You can send this mail from "Manage PCA Users"."
+msgstr "このメールは"PCA ユーザー管理"から送信できます。"
+
+#: passclip-auth-options.php:453
+msgid "Tags [passclipcode], [blogname] will be replaced to passclip code and your blogname."
+msgstr "タグ [passclipcode], [blogname] はPassClip Codeとブログ名に置換されます。"
+
+#: passclip-auth-options.php:454
+msgid "Tag [passclip_link] will be replaced to the url of website about passclip."
+msgstr "タグ [passclip_link] はPassClipのWebサイトのURLに置換されます。"
+
+#: passclip-auth-users.php:49
+msgid "You can manage your members here after you set your PCA app service id."
+msgstr "PCA管理IDを登録すると、ここからメンバーの管理ができます。"
+
+#: passclip-auth-users.php:60
+msgid "Send PassClip Code to these users."
+msgstr "以下のユーザーにPassClip Codeを送信します。"
+
+#: passclip-auth-users.php:72
+msgid "Send Mail"
+msgstr "メール送信"
+
+#: passclip-auth-users.php:89
+msgid "Sent PassClip Code successfully."
+msgstr "PassClip Codeが正しく送信されました。"
+
+#: passclip-auth-users.php:93
+msgid "Failed in sending emails."
+msgstr "メールの送信に失敗しました。"
+
+#: passclip-auth-users.php:114
+msgid "PassClip Auth(PCA) for Wordpress Manage Users"
+msgstr "PassClip Auth(PCA) for Wordpress ユーザー管理"
+
+
+#:widget
+msgid "Log In"
+msgstr "ログイン"
+
+msgid "Log Out"
+msgstr "ログアウト"
+
+msgid "Remember Me"
+msgstr "ログイン状態を保持する"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Username or Email Address"
+msgstr "ユーザー名またはメールアドレス"
+
+msgid "Login form for PassClip Auth"
+msgstr "PassClip Auth向けログインフォーム"
+
+msgid "When logged in, the displayed user name has link to this url. [user_nicename],[user_login],[display_name] will be replaced by the data of the current user."
+msgstr "ログイン中の場合、表示されるユーザー名がこのURLへのリンクを持ちます。[user_nicename],[user_login],[display_name]はログイン中ユーザーのデータで置換されます。"
+
+msgid "Link from username:"
+msgstr "ユーザー名からのリンク:"
+
+#:options preset
+msgid "Simple Setting"
+msgstr "簡易設定"
+
+#:options preset
+msgid "for blog"
+msgstr "ブログ用"
+
+#:options preset
+msgid "for community"
+msgstr "コミュニティ用"
+
+#:options preset
+msgid "for ECsite"
+msgstr "ECサイト用"
+
+#:options preset
+msgid "Advanced Setting"
+msgstr "詳細設定"
+
+#:options adminbar
+msgid "Hide toolbar from new users."
+msgstr "新規ユーザーへのツールバーの非表示"
+
+#:options adminbar
+msgid "If checked, the toolbar will not appear to new users."
+msgstr "チェックすると新規ユーザーはツールバーが表示されません。"
+
+#:options widget
+msgid "Enable PassClip Login Form Widget"
+msgstr "PassClipログインフォームウィジェットの有効化"
+
+#:options widget
+msgid "If checked, you can use our loginform widget."
+msgstr "チェックすると、PassClipログインフォームウィジェットが使用可能になります。"
+
+#:options widget redirect
+msgid ""Redirect to" for the first time."
+msgstr "初回ログイン時リダイレクト先"
+
+#:options widget redirect
+msgid "When a new user logged in from our widget for the first time, he will be redirected to this url. Input the url of the tutorial document, member profile, top page for members, and so on."
+msgstr "新規ユーザーがPassClipログインフォームウィジェットから初めてログインした際に、このURLにリダイレクトされます。利用方法、メンバープロフィール、メンバーサイトのトップ等のURLを入力してください。"
+
+#:login form. fixed in 20180209
+msgid "<p>You can know how to log in with PassClip from <a target="_blank" href="%s">this article.</a></p>"
+msgstr "<p>PassClipでのログイン方法は<a target="_blank" href="%s">こちらの記事</a>をご参照ください。</p>"
+
+#:login form. fixed in 20180209
+msgid "https://www.passclip.com/pca/pca_howtologin/"
+msgstr "https://www.passclip.com/ja/pca/pca_howtologin/"

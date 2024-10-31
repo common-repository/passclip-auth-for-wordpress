@@ -1,0 +1,25 @@
+
+
+:placeholder-shown {
+	color: lightgray;
+    font-size: 13px;
+    font-style: italic;
+}
+
+::-webkit-input-placeholder {
+    color: lightgray;
+    font-size: 13px;
+    font-style: italic;
+}
+
+::-moz-placeholder {
+	color: lightgray;
+    font-size: 13px;
+    font-style: italic;
+}
+
+:-ms-input-placeholder {
+	color: lightgray;
+    font-size: 13px;
+    font-style: italic;
+}
